@@ -6,7 +6,7 @@ theme = 'm10c'
 [params]
   author = "Brian Chambers"
   description = "Knowledge-Base in progress."
-  menu_item_seperator = "***"
+  menu_item_seperator = "<br>"
 [menu]
 [[menu.main]]
   identifier = 'about'
@@ -22,4 +22,4 @@ theme = 'm10c'
   weight = -110
   [menu.main.params]
     class = 'highlight-menu-item'
-	menu_item_seperator = '***'
+	menu_item_seperator = '<br>'
