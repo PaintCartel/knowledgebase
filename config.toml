@@ -6,7 +6,7 @@ theme = 'm10c'
 [params]
   author = "Brian Chambers"
   description = "Knowledge-Base in progress."
-
+  menu_item_seperator = "***"
 [menu]
 [[menu.main]]
   identifier = 'about'
