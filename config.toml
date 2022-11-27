@@ -1,4 +1,4 @@
-baseURL = 'https://PaintCartel.github.io/knowledge/'
+baseURL = 'https://PaintCartel.github.io/knowledgebase/'
 languageCode = 'en-us'
 title = 'PaintCartel'
 theme = 'm10c'

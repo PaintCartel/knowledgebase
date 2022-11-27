@@ -1,3 +1,8 @@
 baseURL = 'https://PaintCartel.github.io/knowledge/'
 languageCode = 'en-us'
 title = 'PaintCartel'
+theme = 'm10c'
+
+[params]
+  author = "Brian Chambers"
+  description = "Knowledge-Base in progress."
