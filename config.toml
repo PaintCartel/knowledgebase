@@ -22,3 +22,4 @@ theme = 'm10c'
   weight = -110
   [menu.main.params]
     class = 'highlight-menu-item'
+	menu_item_seperator = '***'
