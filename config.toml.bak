@@ -7,7 +7,7 @@ theme = 'm10c'
   author = "Brian Chambers"
   description = "Knowledge-Base in progress."
 
-[[menu.main]]
-  identifier = "tags"
-  name = "Tags"
-  url = "/tags/"
+menu:
+  docs:
+    parent: extras
+    weight: 20
