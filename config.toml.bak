@@ -6,8 +6,3 @@ theme = 'm10c'
 [params]
   author = "Brian Chambers"
   description = "Knowledge-Base in progress."
-
-menu:
-  docs:
-    parent: extras
-    weight: 20

@@ -6,3 +6,19 @@ theme = 'm10c'
 [params]
   author = "Brian Chambers"
   description = "Knowledge-Base in progress."
+
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'about hugo'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  weight = -110
+[[menu.main.tags]]
+  identifier = 'Tags'
+  name = 'Tags mentioned in posts'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/tags/'
+  weight = -110
+  [menu.main.params]
+    class = 'highlight-menu-item'
